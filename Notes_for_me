@@ -1,0 +1,10 @@
+Fichier preprocessing : 
+- Mettre le texte dans un format standard (ex : minuscules)
+
+- Supprimer les éléments inutiles (ponctuation, parfois stopwords)
+
+- Normaliser les mots (parfois lemmatisation)
+
+- Nettoyer le bruit pour éviter d’introduire des erreurs
+
+On peut comparer les performances du modèle avec et sans.
