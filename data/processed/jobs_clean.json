@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Machine Learning Engineer",
+    "company": "AI Startup",
+    "location": "Paris, France",
+    "description": "We are looking for a Machine Learning Engineer with strong Python skills. You will build and deploy machine learning models, work with large datasets and collaborate with data scientists and engineers.",
+    "link": "https://example.com/job1",
+    "source": "LinkedIn",
+    "date": "2026-03-10",
+    "clean_description": "looking machine learning engineer strong python skills build deploy machine learning models work large datasets collaborate data scientists engineers"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Tech Consulting Group",
+    "location": "Paris, France",
+    "description": "The Data Scientist will analyze large datasets, build predictive models and communicate insights to stakeholders. Experience with Python, machine learning and statistics is required.",
+    "link": "https://example.com/job2",
+    "source": "Indeed",
+    "date": "2026-03-09",
+    "clean_description": "data scientist analyze large datasets build predictive models communicate insights stakeholders experience python machine learning statistics required"
+  },
+  {
+    "title": "Ingénieur Machine Learning",
+    "company": "Startup IA",
+    "location": "Paris, France",
+    "description": "Nous recherchons un ingénieur en machine learning pour développer des modèles prédictifs et travailler sur des projets d’intelligence artificielle. Une bonne maîtrise de Python et des bibliothèques de data science est requise.",
+    "link": "https://example.com/job3",
+    "source": "WelcomeToTheJungle",
+    "date": "2026-03-08",
+    "clean_description": "recherchons ingénieur machine learning développer modèles prédictifs travailler projets d’intelligence artificielle bonne maîtrise python bibliothèques data science requise"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "DeepTech Labs",
+    "location": "Remote",
+    "description": "As an AI Engineer you will design machine learning pipelines, develop deep learning models and deploy them in production environments using Python and cloud technologies.",
+    "link": "https://example.com/job4",
+    "source": "LinkedIn",
+    "date": "2026-03-07",
+    "clean_description": "engineer design machine learning pipelines develop deep learning models deploy production environments using python cloud technologies"
+  },
+  {
+    "title": "Data Scientist Junior",
+    "company": "Entreprise Data",
+    "location": "Paris, France",
+    "description": "Le data scientist participera à l’analyse de données, à la création de modèles de machine learning et à la visualisation des résultats pour les équipes métier.",
+    "link": "https://example.com/job5",
+    "source": "Indeed",
+    "date": "2026-03-06",
+    "clean_description": "data scientist participera l’analyse données création modèles machine learning visualisation résultats équipes métier"
+  }
+]
