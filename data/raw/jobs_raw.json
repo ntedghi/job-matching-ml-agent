@@ -35,6 +35,15 @@
     "source": "LinkedIn",
     "date": "2026-03-07"
   },
+    {
+    "title": "Fleuriste",
+    "company": "mama felru",
+    "location": "paris",
+    "description": "Nous recherchons un fleuriste passionné pour rejoindre notre équipe. Vous serez responsable de la création de magnifiques arrangements floraux, de la gestion des commandes et de l'entretien des plantes. Une expérience en floristerie est un plus, mais nous sommes ouverts aux débutants motivés.",
+    "link": "https://example.com/job8",
+    "source": "LinkedIn",
+    "date": "2026-03-07"
+  },
   {
     "title": "Data Scientist Junior",
     "company": "Entreprise Data",
