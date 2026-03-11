@@ -8,3 +8,15 @@ Fichier preprocessing :
 - Nettoyer le bruit pour éviter d’introduire des erreurs
 
 On peut comparer les performances du modèle avec et sans.
+
+Ce qui est fait : 
+
+jobs_raw.json (json des annonces trouvées par scrapping ou autre méthode)
+      ↓
+preprocessing
+      ↓
+jobs_clean.json (nettoyage des éléments inutiles)
+      ↓
+embeddings
+      ↓
+jobs_embeddings.json (création des embedding pour comparaison)
